@@ -1,0 +1,133 @@
+@media (max-width:1199px) {
+    .logo__navbar {
+        /* margin-top: 20px; */
+    }
+    h1 {
+        /* margin-top: 30px; */
+        font-size: 48px;
+    }
+    .navbar > ul > li > a {
+        padding-right: 10px;
+    }
+    .elips__img1 {
+        top:-20%;
+        left: 2%;
+        }
+        .elips__img2 {
+        top: -5%;
+        right: 2%;
+        }
+}
+@media (max-width:992px) {
+    .logo__navbar {
+        margin-top: 20px;
+    }
+    h1 {
+        margin-top: 30px;
+        font-size: 42px;
+    }
+    .navbar > ul > li > a {
+        padding-right: 5px;
+        padding-left: 12px;
+       
+    }
+    .logo-img {
+        width: 24px;
+        height: 24px;
+    }
+    .logo__name {
+        font-size: 22px;
+    }
+    h2 {
+        margin-top: 100px;
+    }
+    .img__item img {
+        margin: 0 auto;
+    }
+    span.viev__all {
+        padding-right: 0;
+    }
+    .name__item, .price {
+        text-align: center;
+    }
+    .favorite-guitars__wrapper {
+        margin-top: 120px;
+    }
+    
+}
+@media (max-width:770px) {
+   .text__customers__content {
+    text-align: justify;
+   } 
+   .favorite-guitars__wrapper {
+       margin-top: 0;
+   }
+   .favorit__wrapper h2 {
+       margin-bottom: 40px;
+   }
+   .storys {
+       margin-bottom: 100px;
+   }
+   .elips__bg {
+       margin-bottom: 100px;
+   }
+   .elips__img1 {
+    top:-75px;
+    left: 25px;
+    }
+    .elips__img2 {
+    top: -25px;
+    right: 25px;
+    }
+    .favorite-guitars__wrapper {
+        margin-bottom: 60px;
+    }
+    .footer__wrapper {
+        margin-top: 60px;
+    }
+    .footer__block2 {
+        margin-top: 40px;
+    }
+    .footer__block2 {
+        display: flex;
+        justify-content:  space-between;
+        margin-left: 0px;
+    }
+}
+@media (max-width:580px) {
+    .elips__img1 {
+        top:-75px;
+        left: 25px;
+        }
+        .elips__img2 {
+        top: -25px;
+        right: 25px;
+        }
+}
+@media (max-width:514px) {
+    .elips__img1 {
+        top:-75px;
+        left: 5px;
+        }
+        .elips__img2 {
+        top: -25px;
+        right: 5px;
+        }
+ }
+
+@media (max-width:375px) {
+    .elips__img1 {
+        top:-75px;
+        left: 25px;
+        }
+        .elips__img2 {
+        top: -25px;
+        right: 25px;
+        }
+        .footer__block2 {
+            display: none;
+        }
+        .footer__copiring {
+            margin-top: 40px;
+        }
+}
